@@ -20,6 +20,10 @@ author_profile: true
   K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
   *Microprocessors and Microsystems, vol. 89, Mar. 2022*. (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0141933122000254">Link</a>, <a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a>) 
 
+* **Small MACs from Small Permutations**  
+  M. Eichlseder, **A. C. Mert**, C. Rechberger, M. Schofnegger,  
+  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/049.pdf">Preprint</a>) 
+
 ## 2021  
 
 * **Accelerator for Computing on Encrypted Data**  
