@@ -9,7 +9,7 @@ author_profile: true
 ## 2022  
 
 * **Medha: Microcoded Hardware Accelerator for computing on Encrypted Data**  
-  **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy, 
+  **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy,  
   *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/480.pdf">Preprint</a>) 
 
 * **An Accelerated GPU Library for Homomorphic Encryption Operations of BFV Scheme**  
