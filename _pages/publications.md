@@ -5,15 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## 2022  
+
+* **Medha: Microcoded Hardware Accelerator for computing on Encrypted Data**  
+  **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy, 
+  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/480.pdf">Preprint</a>) 
+
+* **An Accelerated GPU Library for Homomorphic Encryption Operations of BFV Scheme**  
+  E. R. Türkoğlu, A. Ş. Özcan, C. Ayduman, **A. C. Mert**, E. Öztürk, E. Savaş,  
+  *ISCAS, May 2022, Austin, US*. (<a href="">Link</a>) 
+
+* **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
+  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *Microprocessors and Microsystems, vol. 89, Mar. 2022*. (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0141933122000254">Link</a>, <a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a>) 
+
 ## 2021  
 
 * **Accelerator for Computing on Encrypted Data**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
   *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1555.pdf">Preprint</a>) 
-
-* **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
-  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a>) 
 
 * **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
   Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
@@ -25,7 +36,7 @@ author_profile: true
 
 * **A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme**  
   F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *DATE Conference, Feb. 2021, Grenoble, France*. (<a href="/files/date21.pdf">Link</a>, <a href="https://eprint.iacr.org/2021/485.pdf">Preprint</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>) 
+  *DATE Conference, Feb. 2021, Grenoble, France*. (<a href="https://ieeexplore.ieee.org/document/9474139">Link</a>, <a href="https://eprint.iacr.org/2021/485.pdf">Preprint</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>) 
 
 ## 2020
 
