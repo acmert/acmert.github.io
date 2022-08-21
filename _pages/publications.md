@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2022  
 
+* **KaLi: A Crystal for Post-Quantum Security**  
+  A. Aikata, **A. C. Mert**, M. Imran, S. Pagliarini, S. S. Roy,  
+  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/1086.pdf">Preprint</a>) 
+
 * **Medha: Microcoded Hardware Accelerator for computing on Encrypted Data**  
   **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy,  
   *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/480.pdf">Preprint</a>) 
