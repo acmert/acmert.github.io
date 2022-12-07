@@ -16,7 +16,7 @@ author_profile: true
 
 * **Exploring RNS for Isogeny-based Cryptography**  
   D. Jacquemin, **A. C. Mert**, S. S. Roy,  
-  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/1289.pdf">Preprint</a>) 
+  *IACR Cryptology ePrint Archive, 2022*. (<a href="https://eprint.iacr.org/2022/1289.pdf">Preprint</a>) 
 
 * **KaLi: A Crystal for Post-Quantum Security**  
   A. Aikata, **A. C. Mert**, M. Imran, S. Pagliarini, S. S. Roy,  
@@ -28,7 +28,7 @@ author_profile: true
 
 * **An Accelerated GPU Library for Homomorphic Encryption Operations of BFV Scheme**  
   E. R. Türkoğlu, A. Ş. Özcan, C. Ayduman, **A. C. Mert**, E. Öztürk, E. Savaş,  
-  *ISCAS, May 2022, Austin, US*. (<a href="https://ieeexplore.ieee.org/abstract/document/9937503">Link</a>) 
+  *IEEE International Symposium on Circuits and Systems (ISCAS), May 2022, Austin, US*. (<a href="https://ieeexplore.ieee.org/abstract/document/9937503">Link</a>) 
 
 * **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
   K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
@@ -36,13 +36,13 @@ author_profile: true
 
 * **Small MACs from Small Permutations**  
   M. Eichlseder, **A. C. Mert**, C. Rechberger, M. Schofnegger,  
-  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/049.pdf">Preprint</a>) 
+  *IACR Cryptology ePrint Archive, 2022*. (<a href="https://eprint.iacr.org/2022/049.pdf">Preprint</a>) 
 
 ## 2021  
 
 * **Accelerator for Computing on Encrypted Data**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
-  *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1555.pdf">Preprint</a>) 
+  *IACR Cryptology ePrint Archive, 2021*. (<a href="https://eprint.iacr.org/2021/1555.pdf">Preprint</a>) 
 
 * **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
   O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
