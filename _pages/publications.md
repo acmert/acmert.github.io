@@ -6,19 +6,29 @@ author_profile: true
 ---
 
 
-## 2022  
-
-* **KaLi: A Crystal for Post-Quantum Security**  
-  A. Aikata, **A. C. Mert**, M. Imran, S. Pagliarini, S. S. Roy,  
-  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/1086.pdf">Preprint</a>) 
+## 2023  
 
 * **Medha: Microcoded Hardware Accelerator for computing on Encrypted Data**  
   **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy,  
-  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/480.pdf">Preprint</a>) 
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2023*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/9959">Link</a>) 
+
+## 2022  
+
+* **Exploring RNS for Isogeny-based Cryptography**  
+  D. Jacquemin, **A. C. Mert**, S. S. Roy,  
+  *IACR, 2022*. (<a href="https://eprint.iacr.org/2022/1289.pdf">Preprint</a>) 
+
+* **KaLi: A Crystal for Post-Quantum Security**  
+  A. Aikata, **A. C. Mert**, M. Imran, S. Pagliarini, S. S. Roy,  
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (Early access), 2022*. (<a href="https://ieeexplore.ieee.org/abstract/document/9946370">Link</a>, <a href="https://eprint.iacr.org/2022/1086.pdf">Preprint</a>) 
+
+* **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
+  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
+  *IEEE Transactions on Computers (Early access), 2022*. (<a href="https://ieeexplore.ieee.org/abstract/document/9920009">Link</a>, <a href="https://eprint.iacr.org/2021/1461.pdf">Preprint</a>) 
 
 * **An Accelerated GPU Library for Homomorphic Encryption Operations of BFV Scheme**  
   E. R. Türkoğlu, A. Ş. Özcan, C. Ayduman, **A. C. Mert**, E. Öztürk, E. Savaş,  
-  *ISCAS, May 2022, Austin, US*. (<a href="">Link</a>) 
+  *ISCAS, May 2022, Austin, US*. (<a href="https://ieeexplore.ieee.org/abstract/document/9937503">Link</a>) 
 
 * **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
   K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
@@ -33,10 +43,6 @@ author_profile: true
 * **Accelerator for Computing on Encrypted Data**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
   *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1555.pdf">Preprint</a>) 
-
-* **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
-  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
-  *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1461.pdf">Preprint</a>)
 
 * **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
   O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
