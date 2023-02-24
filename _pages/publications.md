@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023  
 
+* **PROTEUS: A Tool to generate pipelined Number Theoretic Transform Architectures for FHE and ZKP applications**  
+  F. Hirner, **A. C. Mert**, S. S. Roy,  
+  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>) 
+
 * **Medha: Microcoded Hardware Accelerator for computing on Encrypted Data**  
   **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2023*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/9959">Link</a>) 
