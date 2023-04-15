@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023  
 
+* **Kavach: Lightweight masking techniques for polynomial arithmetic in lattice-based cryptography**  
+  Aikata, A. Basso, G. Cassiers, **A. C. Mert**, S. S. Roy,  
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 3, 2023*. (<a href="">Link</a>, <a href="https://eprint.iacr.org/2023/517.pdf">Preprint</a>) 
+
 * **PROTEUS: A Tool to generate pipelined Number Theoretic Transform Architectures for FHE and ZKP applications**  
   F. Hirner, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>) 
