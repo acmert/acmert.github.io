@@ -10,7 +10,7 @@ author_profile: true
 
 * **Kavach: Lightweight masking techniques for polynomial arithmetic in lattice-based cryptography**  
   Aikata, A. Basso, G. Cassiers, **A. C. Mert**, S. S. Roy,  
-  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 3, 2023*. (<a href="">Link</a>, <a href="https://eprint.iacr.org/2023/517.pdf">Preprint</a>) 
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 3, 2023*. (<a href="">Link</a>, <a href="https://eprint.iacr.org/2023/517.pdf">Preprint</a>, <a href="https://extgit.iaik.tugraz.at/sesys/kavach_artifacts">Code</a>)  
 
 * **PROTEUS: A Tool to generate pipelined Number Theoretic Transform Architectures for FHE and ZKP applications**  
   F. Hirner, **A. C. Mert**, S. S. Roy,  
@@ -146,12 +146,16 @@ author_profile: true
 
 * **Efficient Hardware Implementations for Lattice-based Cryptography Primitives**  
   **A. C. Mert**,  
-  *Ph.D. Dissertation, Sabanci University, May 2021*.  
-  <a href="https://research.sabanciuniv.edu/42483/1/10256866.pdf">PDF</a>
+  *Ph.D. Dissertation, Sabanci University, May 2021*. (<a href="https://research.sabanciuniv.edu/42483/1/10256866.pdf">PDF</a>)
   
 * **High Performance HEVC and FVC Video Compression Hardware Designs**  
   **A. C. Mert**,  
-  *MSc. Thesis, Sabanci University, August 2017*.  
-  <a href="http://research.sabanciuniv.edu/34742/1/AhmetCanMert_10162349.pdf">PDF</a>
+  *MSc. Thesis, Sabanci University, August 2017*. (<a href="http://research.sabanciuniv.edu/34742/1/AhmetCanMert_10162349.pdf">PDF</a>)  
+  
+## Patents
+  
+* **Crypto processor and electronic device including the same**  
+  S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
+  *Patent Pub. No.: US 2023/0132500 A1, May 4 2023*. (<a href="https://patentimages.storage.googleapis.com/8a/58/a4/20a6dbf0ab26b3/US20230132500A1.pdf">Link</a>) 
 
 
