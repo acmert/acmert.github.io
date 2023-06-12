@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023  
 
+* **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
+  A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
+  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/895.pdf">Preprint</a>)  
+
 * **Kavach: Lightweight masking techniques for polynomial arithmetic in lattice-based cryptography**  
   Aikata, A. Basso, G. Cassiers, **A. C. Mert**, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 3, 2023*. (<a href="">Link</a>, <a href="https://eprint.iacr.org/2023/517.pdf">Preprint</a>, <a href="https://extgit.iaik.tugraz.at/sesys/kavach_artifacts">Code</a>)  
