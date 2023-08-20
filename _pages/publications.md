@@ -8,6 +8,14 @@ author_profile: true
 
 ## 2023  
 
+* **REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption**  
+  Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
+  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1190.pdf">Preprint</a>)
+  
+* **A Survey of Software Implementations for the Number Theoretic Transform**  
+  **A. C. Mert**, F. Yaman, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
+  *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2023*.
+  
 * **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
   A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/895.pdf">Preprint</a>)  
