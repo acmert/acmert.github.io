@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023  
 
+* **A Hardware Implementation of MAYO Signature Scheme**  
+  F. Hirner, M. Streibl, **A. C. Mert**, S. S. Roy,  
+  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1267.pdf">Preprint</a>)
+
 * **REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption**  
   Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1190.pdf">Preprint</a>)
