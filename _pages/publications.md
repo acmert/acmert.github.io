@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023  
 
+* **Parallel Hardware for Isogeny-based VDF: Attacker's Perspective**  
+  D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
+  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1396.pdf">Preprint</a>)
+
 * **A Hardware Implementation of MAYO Signature Scheme**  
   F. Hirner, M. Streibl, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1267.pdf">Preprint</a>)
