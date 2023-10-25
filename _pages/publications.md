@@ -174,6 +174,10 @@ author_profile: true
   
 ## Patents
   
+* **APPARATUS AND METHOD WITH HOMOMORPHIC ENCRYPTION OPERATION**  
+  **A. C. Mert**, S. S. Roy, Aikata, S. Kwon, Y. Lee,  
+  *Patent Pub. No.: US 2023/0327849 A1, October 12, 2023*. (<a href="https://www.freepatentsonline.com/20230327849.pdf">Link</a>) 
+
 * **Crypto processor and electronic device including the same**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
   *Patent Pub. No.: US 2023/0132500 A1, May 4 2023*. (<a href="https://patentimages.storage.googleapis.com/8a/58/a4/20a6dbf0ab26b3/US20230132500A1.pdf">Link</a>) 
