@@ -12,7 +12,7 @@ author_profile: true
   D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1396.pdf">Preprint</a>)
 
-* **A Hardware Implementation of MAYO Signature Scheme**  
+* **Whipping the MAYO Signature Scheme using Hardware Platforms**  
   F. Hirner, M. Streibl, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1267.pdf">Preprint</a>)
 
@@ -22,7 +22,7 @@ author_profile: true
   
 * **A Survey of Software Implementations for the Number Theoretic Transform**  
   **A. C. Mert**, F. Yaman, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
-  *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2023*.
+  *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2023*. (<a href="https://link.springer.com/chapter/10.1007/978-3-031-46077-7_22">Link</a>)  
   
 * **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
   A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
@@ -174,9 +174,9 @@ author_profile: true
   
 ## Patents
   
-* **APPARATUS AND METHOD WITH HOMOMORPHIC ENCRYPTION OPERATION**  
+* **Apparatus and method with homomorphic encryption operation**  
   **A. C. Mert**, S. S. Roy, Aikata, S. Kwon, Y. Lee,  
-  *Patent Pub. No.: US 2023/0327849 A1, October 12, 2023*. (<a href="https://www.freepatentsonline.com/20230327849.pdf">Link</a>) 
+  *Patent Pub. No.: US 2023/0327849 A1, October 12, 2023*. (<a href="https://patentimages.storage.googleapis.com/73/ce/ae/022124afb8c6a2/US20230327849A1.pdf">Link</a>) 
 
 * **Crypto processor and electronic device including the same**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
