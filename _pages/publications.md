@@ -10,7 +10,7 @@ author_profile: true
 
 * **Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *DATE Conference, Valencia, Spain, 2023*. (<a href="">Preprint</a>)
+  *DATE Conference, Valencia, Spain, 2023*. (<a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>)
 
 * **Efficient Design-Time Flexible Hardware Architecture for Accelerating Homomorphic Encryption**  
   E. Kocer, C. Ayduman, S. Kirbiyik, **A. C. Mert**, E. Savas,  
