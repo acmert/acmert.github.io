@@ -14,7 +14,7 @@ author_profile: true
 
 * **Efficient Design-Time Flexible Hardware Architecture for Accelerating Homomorphic Encryption**  
   E. Kocer, C. Ayduman, S. Kirbiyik, **A. C. Mert**, E. Savas,  
-  *31st IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC 2023), Sharjah, UAE, 2023*. (<a href="">Link</a>)
+  *31st IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC 2023), Sharjah, UAE, 2023*. (<a href="https://ieeexplore.ieee.org/document/10321943">Link</a>)
   
 * **Parallel Hardware for Isogeny-based VDF: Attacker's Perspective**  
   D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
