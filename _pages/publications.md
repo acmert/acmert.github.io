@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024  
 
+* **Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration**  
+  A. Kim, **A. C. Mert**, A. Mukherjee, Aikata, M. Deryabin, S. Kwon, H. Kang, S. S. Roy,  
+  *IACR Cryptology ePrint Archive, 2024*. (<a href="https://eprint.iacr.org/2024/314.pdf">Preprint</a>)
 
 ## 2023  
 
