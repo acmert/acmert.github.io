@@ -9,12 +9,20 @@ author_profile: true
 * **Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration**  
   A. Kim, **A. C. Mert**, A. Mukherjee, Aikata, M. Deryabin, S. Kwon, H. Kang, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2024*. (<a href="https://eprint.iacr.org/2024/314.pdf">Preprint</a>)
-
-## 2023  
-
+  
+* **Proteus: A Pipelined NTT Architecture Generator**  
+  F. Hirner, **A. C. Mert**, S. S. Roy,  
+  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Early access), 2024*. (<a href="https://ieeexplore.ieee.org/document/10478869">Link</a>, <a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>) 
+  
 * **Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *DATE Conference, Valencia, Spain, 2023*. (<a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>)
+  *DATE Conference, Valencia, Spain, 2024*. (<a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>)
+  
+* **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
+  A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2024*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/11261">Link</a>)  
+
+## 2023  
 
 * **Efficient Design-Time Flexible Hardware Architecture for Accelerating Homomorphic Encryption**  
   E. Kocer, C. Ayduman, S. Kirbiyik, **A. C. Mert**, E. Savas,  
@@ -36,18 +44,10 @@ author_profile: true
   **A. C. Mert**, F. Yaman, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
   *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2023*. (<a href="https://link.springer.com/chapter/10.1007/978-3-031-46077-7_22">Link</a>)  
   
-* **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
-  A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
-  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/895.pdf">Preprint</a>)  
-
 * **Kavach: Lightweight masking techniques for polynomial arithmetic in lattice-based cryptography**  
   Aikata, A. Basso, G. Cassiers, **A. C. Mert**, S. S. Roy,  
-  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 3, 2023*. (<a href="">Link</a>, <a href="https://eprint.iacr.org/2023/517.pdf">Preprint</a>, <a href="https://extgit.iaik.tugraz.at/sesys/kavach_artifacts">Code</a>)  
-
-* **PROTEUS: A Tool to generate pipelined Number Theoretic Transform Architectures for FHE and ZKP applications**  
-  F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>) 
-
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 3, 2023*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/10967/10274">Link</a>, <a href="https://extgit.iaik.tugraz.at/sesys/kavach_artifacts">Code</a>)  
+  
 * **Medha: Microcoded Hardware Accelerator for computing on Encrypted Data**  
   **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2023*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/9959">Link</a>) 
