@@ -12,15 +12,15 @@ author_profile: true
   
 * **Proteus: A Pipelined NTT Architecture Generator**  
   F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Early access), 2024*. (<a href="https://ieeexplore.ieee.org/document/10478869">Link</a>, <a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>) 
+  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Early access), 2024*. (<a href="https://ieeexplore.ieee.org/document/10478869">Link</a>, <a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>, <a href="https://github.com/florianhirner/proteus">Code</a>) 
   
 * **Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *DATE Conference, Valencia, Spain, 2024*. (<a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>)
+  *DATE Conference, Valencia, Spain, 2024*. (<a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>, <a href="https://github.com/flokrieger/Aloha-HE">Code</a>)
   
 * **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
   A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
-  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2024*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/11261">Link</a>)  
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2024*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/11261">Link</a>, <a href="https://github.com/anishamukh/MODHE">Code</a>)  
 
 ## 2023  
 
@@ -76,7 +76,7 @@ author_profile: true
 
 * **Small MACs from Small Permutations**  
   M. Eichlseder, **A. C. Mert**, C. Rechberger, M. Schofnegger,  
-  *IACR Cryptology ePrint Archive, 2022*. (<a href="https://eprint.iacr.org/2022/049.pdf">Preprint</a>) 
+  *IACR Cryptology ePrint Archive, 2022*. (<a href="https://eprint.iacr.org/2022/049.pdf">Preprint</a>, <a href="https://github.com/mschof/ldmac">Code</a>) 
 
 ## 2021  
 
