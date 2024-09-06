@@ -7,7 +7,7 @@ author_profile: true
 ## 2024  
 
 * **OpenNTT - An Automated Toolchain for Compiling High-Performance NTT Accelerators in FHE**  
-  F. Krieger, F. Krieger, **A. C. Mert**, S. S. Roy,  
+  F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
   *ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2024*. (<a href="https://graz.elsevierpure.com/en/publications/openntt-an-automated-toolchain-for-compiling-high-performance-ntt">Preprint</a>)
 
 * **Whipping the Multivariate-based MAYO Signature Scheme using Hardware Platforms**  
