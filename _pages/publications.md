@@ -6,9 +6,17 @@ author_profile: true
 ---
 ## 2024  
 
+* **OpenNTT - An Automated Toolchain for Compiling High-Performance NTT Accelerators in FHE**  
+  F. Krieger, F. Krieger, **A. C. Mert**, S. S. Roy,  
+  *ACM/IEEE International Conference on Computer-Aided Design, 2024*. (<a href="https://graz.elsevierpure.com/en/publications/openntt-an-automated-toolchain-for-compiling-high-performance-ntt">Preprint</a>)
+
+* **Whipping the Multivariate-based MAYO Signature Scheme using Hardware Platforms**  
+  F. Hirner, M. Streibl, F. Krieger, **A. C. Mert**, S. S. Roy,  
+  *ACM Conference on Computer and Communications Security (CCS), 2024*. (<a href="https://eprint.iacr.org/2023/1267.pdf">Preprint</a>)
+
 * **Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration**  
   A. Kim, **A. C. Mert**, A. Mukherjee, Aikata, M. Deryabin, S. Kwon, H. Kang, S. S. Roy,  
-  *IACR Cryptology ePrint Archive, 2024*. (<a href="https://eprint.iacr.org/2024/314.pdf">Preprint</a>)
+  *Annual International Cryptology Conference (CRYPTO), 2024*. (<a href="https://link.springer.com/chapter/10.1007/978-3-031-68382-4_3">Link</a>, <a href="https://eprint.iacr.org/2024/314.pdf">Preprint</a>)
   
 * **Proteus: A Pipelined NTT Architecture Generator**  
   F. Hirner, **A. C. Mert**, S. S. Roy,  
@@ -16,7 +24,7 @@ author_profile: true
   
 * **Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *DATE Conference, Valencia, Spain, 2024*. (<a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>, <a href="https://github.com/flokrieger/Aloha-HE">Code</a>)
+  *Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, 2024*. (<a href="https://ieeexplore.ieee.org/abstract/document/10546608">Link</a>, <a href="https://eprint.iacr.org/2023/1736.pdf">Preprint</a>, <a href="https://github.com/flokrieger/Aloha-HE">Code</a>)
   
 * **ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations**  
   A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
@@ -31,10 +39,6 @@ author_profile: true
 * **Parallel Hardware for Isogeny-based VDF: Attacker's Perspective**  
   D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1396.pdf">Preprint</a>)
-
-* **Whipping the MAYO Signature Scheme using Hardware Platforms**  
-  F. Hirner, M. Streibl, **A. C. Mert**, S. S. Roy,  
-  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1267.pdf">Preprint</a>)
 
 * **REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption**  
   Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
