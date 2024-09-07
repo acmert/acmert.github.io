@@ -6,9 +6,6 @@ main:
   - title: "Publications"
     url: /publications/   
 
-  - title: "Academic"
-    url: /teaching/    
-    
   - title: "CV"
     url: /cv/
     
