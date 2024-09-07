@@ -21,10 +21,10 @@ Education
 ======
 * <b>Ph.D.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-2021)
   <!--* GPA: 4.00/4.00-->
-  * Dissertation: *Efficient Hardware Implementations for Lattice-based Cryptography Primitives* (supervised by Dr. Erdinc Ozturk)
+  * Dissertation: *Efficient Hardware Implementations for Lattice-based Cryptography Primitives* 
 * <b>MSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2015-2017)
   <!--* GPA: 4.00/4.00-->
-  * Thesis: *High Performance HEVC and FVC Video Compression Hardware Designs* (supervised by Dr. Ilker Hamzaoglu)
+  * Thesis: *High Performance HEVC and FVC Video Compression Hardware Designs* 
 * <b>BSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2010-2015)
   * GPA: 3.95/4.00 (ranked as 3rd)
 <!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
