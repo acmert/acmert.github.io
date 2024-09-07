@@ -26,8 +26,18 @@ Education
   <!--* GPA: 4.00/4.00-->
   * Thesis: *High Performance HEVC and FVC Video Compression Hardware Designs* 
 * <b>BSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2010-2015)
-  * GPA: 3.95/4.00 (ranked as 3rd)
+  <!--* GPA: 3.95/4.00 (ranked as 3rd)-->
 <!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
+
+<!--
+Skills  
+======
+Interest: Homomorphic Encryption, Post-Quantum Cryptography, Cryptographic Hardware Design/Acceleration, FPGA/ASIC
+RTL Design: Verilog HDL, SystemVerilog
+Tools: Xilinx ISE/Vivado/Vitis, ModelSim, Mentor Graphics Questa, Synopsys DC, Cadence Genus, LTSpice/PSpice
+Programming/Coding: C/C++, Python, MATLAB, CUDA, Unix scripting
+Language: Turkish (Mother-tongue), English (Advanced), German (Beginner)
+-->
 
 
 Teaching  
@@ -57,4 +67,6 @@ Awards
 <!--* (2017-2021) - **Full Graduate Scholarship**, Sabanci University Electronics Engineering Ph.D. Program-->
 <!--* (2015-2017) - **Full Graduate Scholarship**, Sabanci University Electronics Engineering MSc. Program-->
 <!--* (2010-2015) - **Sakip Sabanci Scholarship**, Sabanci University Undergraduate Program-->
+
+
 <!--  (for ranking 385th among 1.5 million participants in the Nationwide University Entrance Exam in 2010)-->  
