@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahmet Can Mert"
+  name             : "Ahmet Can Mert, PhD"
   avatar           : "acm.png"
-  bio              : "Postdoctoral Researcher at TU Graz"
+  bio              : "Cryptographic Hardware Design Engineer"
   location         : "Graz, Austria"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.tr/citations?user=AjOpJZUAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ahmet_Mert5"
+  researchgate     : #"https://www.researchgate.net/profile/Ahmet_Mert5"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ahmet-can-mert-a1416955"
-  orcid            : "http://orcid.org/0000-0002-7400-2450"
+  orcid            : #"http://orcid.org/0000-0002-7400-2450"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
