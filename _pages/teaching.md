@@ -2,7 +2,7 @@
 layout: archive
 title: "Academic"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 ## Awards/Scholarships  
