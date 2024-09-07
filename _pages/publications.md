@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-## 2024  
 
+2024  
+======
 * **OpenNTT - An Automated Toolchain for Compiling High-Performance NTT Accelerators in FHE**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
   *ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2024*. (<a href="https://graz.elsevierpure.com/en/publications/openntt-an-automated-toolchain-for-compiling-high-performance-ntt">Preprint</a>)
@@ -30,8 +31,8 @@ author_profile: true
   A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deryabin, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2024*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/11261">Link</a>, <a href="https://github.com/anishamukh/MODHE">Code</a>)  
 
-## 2023  
-
+2023  
+======
 * **Efficient Design-Time Flexible Hardware Architecture for Accelerating Homomorphic Encryption**  
   E. Kocer, C. Ayduman, S. Kirbiyik, **A. C. Mert**, E. Savas,  
   *31st IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC 2023), Sharjah, UAE, 2023*. (<a href="https://ieeexplore.ieee.org/document/10321943">Link</a>)
@@ -56,8 +57,8 @@ author_profile: true
   **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo, Y. Lee, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 1, 2023*. (<a href="https://tches.iacr.org/index.php/TCHES/article/view/9959">Link</a>) 
 
-## 2022  
-
+2022  
+======
 * **Exploring RNS for Isogeny-based Cryptography**  
   D. Jacquemin, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2022*. (<a href="https://eprint.iacr.org/2022/1289.pdf">Preprint</a>) 
@@ -82,8 +83,8 @@ author_profile: true
   M. Eichlseder, **A. C. Mert**, C. Rechberger, M. Schofnegger,  
   *IACR Cryptology ePrint Archive, 2022*. (<a href="https://eprint.iacr.org/2022/049.pdf">Preprint</a>, <a href="https://github.com/mschof/ldmac">Code</a>) 
 
-## 2021  
-
+2021  
+======
 * **Accelerator for Computing on Encrypted Data**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
   *IACR Cryptology ePrint Archive, 2021*. (<a href="https://eprint.iacr.org/2021/1555.pdf">Preprint</a>) 
@@ -96,8 +97,8 @@ author_profile: true
   F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas,  
   *DATE Conference, Feb. 2021, Grenoble, France*. (<a href="https://ieeexplore.ieee.org/document/9474139">Link</a>, <a href="https://eprint.iacr.org/2021/485.pdf">Preprint</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>) 
 
-## 2020
-
+2020
+======
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
   *IEEE Transactions on Computers, 2020 (early access)*. (<a href="https://ieeexplore.ieee.org/document/9289016">Link</a>, <a href="https://eprint.iacr.org/2020/480.pdf">Preprint</a>)
@@ -118,8 +119,8 @@ author_profile: true
   **A. C. Mert**, E. Ozturk, E. Savas,  
   *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 2, Feb. 2020*. (<a href="https://ieeexplore.ieee.org/document/8866755">Link</a>) 
   
-## 2019  
-
+2019  
+======
 * **Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
   *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*. (<a href="http://research.sabanciuniv.edu/37407/1/PID6000233.pdf">Link</a>, <a href="https://eprint.iacr.org/2019/109.pdf">Preprint</a>)
@@ -128,8 +129,8 @@ author_profile: true
   **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
   *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*. (<a href="http://research.sabanciuniv.edu/38221/1/dsd2019_aad.pdf">Link</a>)
 
-## 2018 - ...
-
+2018  
+======
 * **A Low Power Versatile Video Coding Fractional Interpolation Hardware**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *Conference on DASIP, Oct. 2018, Porto, Portugal*. (<a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Mert_DASIP_VVC.pdf">Link</a>)
@@ -150,6 +151,8 @@ author_profile: true
   H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *ICCE, Jan. 2018, Las Vegas, USA*. (<a href="https://ieeexplore.ieee.org/abstract/document/8326332">Link</a>)
 
+2017  
+======
 * **Reconfigurable Intra Prediction Hardware for Future Video Coding**  
   H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *IEEE Transactions on Consumer Electronics, vol. 63, no. 4, Nov. 2017*. (<a href="https://ieeexplore.ieee.org/abstract/document/8246799">Link</a>)
@@ -166,6 +169,8 @@ author_profile: true
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *IEEE Transactions on Consumer Electronics, vol. 63, no. 2, May 2017*. (<a href="https://ieeexplore.ieee.org/abstract/document/8013250">Link</a>) 
 
+2016  
+======
 * **Low Complexity HEVC Sub-Pixel Motion Estimation Technique and Its Hardware Implementation**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *ICCE - Berlin, Sep. 2016, Berlin, Germany*. (<a href="https://ieeexplore.ieee.org/abstract/document/7684744">Link</a>)  
@@ -174,22 +179,24 @@ author_profile: true
   E. Kalali, **A. C. Mert**, I. Hamzaoglu,  
   *IEEE Transactions on Consumer Electronics, vol. 62, no. 2, May 2016*. (<a href="https://ieeexplore.ieee.org/abstract/document/7514716">Link</a>) 
 
+2015  
+======
 * **Development of an electronic control unit for PMSM drives in automotive applications**  
   B. Soner, A. Icke, **A. C. Mert**, U. Basaran, S. T. Impram, I. Sahin,  
   *ELECO, Nov. 2015, Bursa, Turkey*. (<a href="https://ieeexplore.ieee.org/abstract/document/7394493">Link</a>) 
 
-## Theses
-
+Theses
+======
 * **Efficient Hardware Implementations for Lattice-based Cryptography Primitives**  
-  **A. C. Mert**,  
+  **A. C. Mert**, (Advisor: Dr. Erdinc Ozturk)   
   *Ph.D. Dissertation, Sabanci University, May 2021*. (<a href="https://research.sabanciuniv.edu/42483/1/10256866.pdf">PDF</a>)
   
 * **High Performance HEVC and FVC Video Compression Hardware Designs**  
-  **A. C. Mert**,  
+  **A. C. Mert**, (Advisor: Dr. Ilker Hamzaoglu)  
   *MSc. Thesis, Sabanci University, August 2017*. (<a href="http://research.sabanciuniv.edu/34742/1/AhmetCanMert_10162349.pdf">PDF</a>)  
   
-## Patents
-  
+Patents
+======
 * **Apparatus and method with homomorphic encryption operation**  
   **A. C. Mert**, S. S. Roy, Aikata, S. Kwon, Y. Lee,  
   *Patent Pub. No.: US 2023/0327849 A1, October 12, 2023*. (<a href="https://patentimages.storage.googleapis.com/73/ce/ae/022124afb8c6a2/US20230327849A1.pdf">Link</a>) 
