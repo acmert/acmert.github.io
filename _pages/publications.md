@@ -9,7 +9,7 @@ author_profile: true
 ======
 * **OpenNTT - An Automated Toolchain for Compiling High-Performance NTT Accelerators in FHE**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2024*. (<a href="https://graz.elsevierpure.com/en/publications/openntt-an-automated-toolchain-for-compiling-high-performance-ntt">Preprint</a>)
+  *ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2024*. (<a href="https://eprint.iacr.org/2024/1740.pdf">Preprint</a>)
 
 * **Whipping the Multivariate-based MAYO Signature Scheme using Hardware Platforms**  
   F. Hirner, M. Streibl, F. Krieger, **A. C. Mert**, S. S. Roy,  
@@ -197,6 +197,10 @@ Theses
   
 Patents
 ======
+* **Apparatus and method with homomorphic encryption**  
+  A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, K. Sunmin, M. Deriabin, S. S. Roy,  
+  *Patent Pub. No.: US 2024/0348421 A1, October 17, 2024*. (<a href="https://patentimages.storage.googleapis.com/83/ed/e1/60967138cbf46a/US20240348421A1.pdf">Link</a>) 
+
 * **Apparatus and method with homomorphic encryption operation**  
   **A. C. Mert**, S. S. Roy, Aikata, S. Kwon, Y. Lee,  
   *Patent Pub. No.: US 2023/0327849 A1, October 12, 2023*. (<a href="https://patentimages.storage.googleapis.com/73/ce/ae/022124afb8c6a2/US20230327849A1.pdf">Link</a>) 
