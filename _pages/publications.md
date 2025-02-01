@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025  
+======
+* **REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption**  
+  Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
+  *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 2, 2025*. (<a href="https://pure.tugraz.at/ws/portalfiles/portal/88906213/2023-1190.pdf">Link</a>, <a href="https://github.com/aikata10/REED/">Code</a>)
+
 2024  
 ======
 * **OpenNTT - An Automated Toolchain for Compiling High-Performance NTT Accelerators in FHE**  
@@ -41,10 +47,6 @@ author_profile: true
   D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
   *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1396.pdf">Preprint</a>)
 
-* **REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption**  
-  Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
-  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1190.pdf">Preprint</a>)
-  
 * **A Survey of Software Implementations for the Number Theoretic Transform**  
   **A. C. Mert**, F. Yaman, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
   *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2023*. (<a href="https://link.springer.com/chapter/10.1007/978-3-031-46077-7_22">Link</a>)  
@@ -197,8 +199,16 @@ Theses
   
 Patents
 ======
+* **Method and Device with Homomorphic Encryption Operation**  
+  **A. C. Mert**, Aikata, S. S. Roy, S. Kwon, M. Deriabin,  
+  *Patent Pub. No.: US 2025/0023707 A1, January 16, 2025*. (<a href="https://www.freepatentsonline.com/y2025/0023707.html">Link</a>)
+  
+* **Electronic Device with Homomorphic Encryption**  
+  Aikata, **A. C. Mert**, S. S. Roy, S. Kwon, M. Deriabin  
+  *Patent Pub. No.: US 2025/0023708 A1, January 16, 2025*. (<a href="https://www.freepatentsonline.com/y2025/0023708.html">Link</a>)
+  
 * **Apparatus and method with homomorphic encryption**  
-  A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, K. Sunmin, M. Deriabin, S. S. Roy,  
+  A. Mukherjee, Aikata, **A. C. Mert**, Y. Lee, S. Kwon, M. Deriabin, S. S. Roy,  
   *Patent Pub. No.: US 2024/0348421 A1, October 17, 2024*. (<a href="https://patentimages.storage.googleapis.com/83/ed/e1/60967138cbf46a/US20240348421A1.pdf">Link</a>) 
 
 * **Apparatus and method with homomorphic encryption operation**  
