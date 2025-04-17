@@ -11,6 +11,10 @@ author_profile: true
   Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 2, 2025*. (<a href="https://pure.tugraz.at/ws/portalfiles/portal/88906213/2023-1190.pdf">Link</a>, <a href="https://github.com/aikata10/REED/">Code</a>)
 
+* **Accelerating Isogeny Walks for VDF Evaluation**  
+  D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
+  *IACR Communications in Cryptology, Volume 2, Issue 1, 2025*. (<a href="https://cic.iacr.org/p/2/1/30">Link</a>, <a href="https://github.com/dj33-96/Isogeny-VDF">Code</a>)
+
 2024  
 ======
 * **OpenNTT - An Automated Toolchain for Compiling High-Performance NTT Accelerators in FHE**  
@@ -42,10 +46,6 @@ author_profile: true
 * **Efficient Design-Time Flexible Hardware Architecture for Accelerating Homomorphic Encryption**  
   E. Kocer, C. Ayduman, S. Kirbiyik, **A. C. Mert**, E. Savas,  
   *31st IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC 2023), Sharjah, UAE, 2023*. (<a href="https://ieeexplore.ieee.org/document/10321943">Link</a>)
-  
-* **Parallel Hardware for Isogeny-based VDF: Attacker's Perspective**  
-  D. Jacquemin, A. Mukherjee, **A. C. Mert**, S. S. Roy,  
-  *IACR Cryptology ePrint Archive, 2023*. (<a href="https://eprint.iacr.org/2023/1396.pdf">Preprint</a>)
 
 * **A Survey of Software Implementations for the Number Theoretic Transform**  
   **A. C. Mert**, F. Yaman, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
