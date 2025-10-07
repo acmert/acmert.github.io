@@ -7,6 +7,10 @@ author_profile: true
 
 2025  
 ======
+* **A Flexible Hardware Design Tool for Fast Fourier and Number-Theoretic Transformation Architectures**  
+  F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
+  *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025*. (<a href="https://ieeexplore.ieee.org/abstract/document/11112724">Link</a>, <a href="https://github.com/flokrieger/OpenNTT">Code</a>)
+
 * **REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption**  
   Aikata, **A. C. Mert**, S. Kwon, M. Deryabin, S. S. Roy,  
   *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Issue 2, 2025*. (<a href="https://pure.tugraz.at/ws/portalfiles/portal/88906213/2023-1190.pdf">Link</a>, <a href="https://github.com/aikata10/REED/">Code</a>)
@@ -31,7 +35,7 @@ author_profile: true
   
 * **Proteus: A Pipelined NTT Architecture Generator**  
   F. Hirner, **A. C. Mert**, S. S. Roy,  
-  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Early access), 2024*. (<a href="https://ieeexplore.ieee.org/document/10478869">Link</a>, <a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>, <a href="https://github.com/florianhirner/proteus">Code</a>) 
+  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024*. (<a href="https://ieeexplore.ieee.org/document/10478869">Link</a>, <a href="https://eprint.iacr.org/2023/267.pdf">Preprint</a>, <a href="https://github.com/florianhirner/proteus">Code</a>) 
   
 * **Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption**  
   F. Krieger, F. Hirner, **A. C. Mert**, S. S. Roy,  
@@ -199,6 +203,10 @@ Theses
   
 Patents
 ======
+* **Method and apparatus with polynomial multiplication operation**  
+  S. Kwon, **A. C. Mert**, A. Kim, A. Mukherjee, Aikata, S. S. Roy, H. Kang, M. Deriabin,  
+  *Patent Pub. No.: US 2025/0244954 A1, July 31, 2025*. (<a href="https://www.freepatentsonline.com/y2025/0244954.html">Link</a>)
+  
 * **Method and Device with Homomorphic Encryption Operation**  
   **A. C. Mert**, Aikata, S. S. Roy, S. Kwon, M. Deriabin,  
   *Patent Pub. No.: US 2025/0023707 A1, January 16, 2025*. (<a href="https://www.freepatentsonline.com/y2025/0023707.html">Link</a>)
